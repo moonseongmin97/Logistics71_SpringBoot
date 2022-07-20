@@ -99,7 +99,7 @@ public class LogisalesServiceImpl implements LogisalesService {
 			bean.setEstimateNo(newEstimateNo);
 				
 			bean.setEstimateDetailNo(newEstimateDetailNo);
->>>>>>> 910f5d1 (Initial commit)
+>>>>>>> 4d31b85 (Initial commit)
 		}
 
 		resultMap = batchEstimateDetailListProcess(estimateDetailTOList,newEstimateNo);
